@@ -1,0 +1,26 @@
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\bin\Debug\Assets\car.png
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\bin\Debug\Car2D_2023.exe.config
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\bin\Debug\Car2D_2023.exe
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\bin\Debug\Car2D_2023.pdb
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\bin\Debug\OpenTK.dll
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\bin\Debug\OpenTK.pdb
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\bin\Debug\OpenTK.xml
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.csproj.AssemblyReference.cache
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.csproj.CoreCompileInputs.cache
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.csproj.CopyComplete
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.exe
+C:\Users\chiro\source\repos\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.pdb
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\bin\Debug\Assets\car.png
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\bin\Debug\Car2D_2023.exe.config
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\bin\Debug\Car2D_2023.exe
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\bin\Debug\Car2D_2023.pdb
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\bin\Debug\aiv-fast2d.dll
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\bin\Debug\OpenTK.dll
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\bin\Debug\OpenTK.pdb
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\bin\Debug\OpenTK.xml
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.csproj.AssemblyReference.cache
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.csproj.CopyComplete
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.exe
+C:\Users\Alessio\Desktop\Car 2D\Car2D_2023\Car2D_2023\obj\Debug\Car2D_2023.pdb
